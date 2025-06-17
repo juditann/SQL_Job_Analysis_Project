@@ -371,8 +371,3 @@ From the analysis, we uncovered the following insights:
 2. **Skills for Top-Paying Jobs**: The skill highly sought by employers for high-paying job roles is Excel, showing the importance of having knowledge in data manipulation and data visualisation.
 3. **Most In-Demand Skills**: SQL is the most in-demand skill looked by employers for data analyst positons, making it an essential skill for aspiring data analysts.
 4. **Skills with the Highest Salaries**: 
-
-### Building my Data Analytics Study Plan
-
-### Closing Thoughts
-This project enhanced my SQL skills
