@@ -370,4 +370,3 @@ From the analysis, we uncovered the following insights:
 1. **Top-Paying Non-Senior Data Analyst Jobs in London**: The highest-paying non-senior jobs for data analysts have a wide range of salaries starting over $100,000.
 2. **Skills for Top-Paying Jobs**: The skill highly sought by employers for high-paying job roles is Excel, showing the importance of having knowledge in data manipulation and data visualisation.
 3. **Most In-Demand Skills**: SQL is the most in-demand skill looked by employers for data analyst positons, making it an essential skill for aspiring data analysts.
-4. **Skills with the Highest Salaries**: 
